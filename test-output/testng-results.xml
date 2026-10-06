@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-03T08:20:05 PDT" name="Default suite" finished-at="2026-09-03T08:20:09 PDT" duration-ms="4676">
+    <groups>
+    </groups>
+    <test started-at="2026-09-03T08:20:05 PDT" name="Default test" finished-at="2026-09-03T08:20:09 PDT" duration-ms="4676">
+      <class name="variousConcept.Session5_TestNG">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:05 PDT" name="readConfig" finished-at="2026-09-03T08:20:05 PDT" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:05 PDT" name="init" finished-at="2026-09-03T08:20:06 PDT" duration-ms="1601" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testLogin()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:06 PDT" name="testLogin" finished-at="2026-09-03T08:20:07 PDT" duration-ms="647" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:07 PDT" name="tearDown" finished-at="2026-09-03T08:20:07 PDT" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:07 PDT" name="init" finished-at="2026-09-03T08:20:08 PDT" duration-ms="907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="testShoppingCart()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:08 PDT" name="testShoppingCart" finished-at="2026-09-03T08:20:09 PDT" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testShoppingCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:variousConcept.Session5_TestNG@2925bf5b]" started-at="2026-09-03T08:20:09 PDT" name="tearDown" finished-at="2026-09-03T08:20:09 PDT" duration-ms="169" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcept.Session5_TestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
